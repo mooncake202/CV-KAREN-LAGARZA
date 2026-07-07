@@ -70,6 +70,9 @@ const PROJECTS = [
       "Designed and specified a full-stack web platform (React, Node.js/Express, MariaDB, Redis) to digitize and track the internal service social process, coordinating three user roles: students, professors, and coordinators.",
       "Modeled system architecture end-to-end, including 7 functional modules, 60+ use cases, sequence diagrams, and a relational database schema supporting role-based access control via JWT.",
       "Defined a secure deployment architecture using Nginx as a reverse proxy and Cloudflare Tunnel to expose the internal server without direct public exposure, enforcing TLS 1.3 end-to-end encryption.",
+      "Organized progress meetings with examination committee, thesis advisors and team members.",
+      "Designed and managed a project schedule, coordinating task progression and assigning responsibilities across the team.",
+
     ],
   },
 ];
@@ -93,7 +96,7 @@ const LANGUAGES = [
 const EDUCATION = {
   school: "ESCOM — Instituto Politécnico Nacional",
   place: "Mexico City",
-  date: "Feb 2022 — Feb 2027",
+  date: "Feb 2022 — June 2026",
   degree: "Computer Systems Engineering",
   desc: "Training in data structures, algorithmic logic, object-oriented programming (OOP), databases, and distributed systems architecture. Developed skills in modeling complex processes and abstracting technical requirements.",
 };
